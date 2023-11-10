@@ -1,0 +1,11 @@
+authlib
+django
+python-dotenv
+requests
+djangorestframework
+channels
+cryptography
+daphne
+django-cors-headers
+django-extensions
+Werkzeug
